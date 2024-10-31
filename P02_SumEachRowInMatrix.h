@@ -46,7 +46,7 @@ namespace P02_SumEachRowInMatrix {
 
 				Sum += arr[i][j];
 			}
-			cout << "Row " << i << " Sum = " << Sum << endl;
+			cout << " Row " << i + 1 << " Sum = " << Sum << endl;
 			Sum = 0;
 		}
 
@@ -63,7 +63,7 @@ namespace P02_SumEachRowInMatrix {
 
 		FillMatrixWithRandomNumbers(arr, 3, 3);
 		PrintMatrix(arr, 3, 3);
-		cout << "The following are the Sum of each rows:" << endl;
+		cout << "\nThe following are the Sum of each row in the matrix:" << endl;
 		SumOfRowsInMatrix(arr, 3, 3);
 
 	}
