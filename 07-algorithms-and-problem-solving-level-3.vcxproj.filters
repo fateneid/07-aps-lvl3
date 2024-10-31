@@ -23,5 +23,8 @@
     <ClInclude Include="P01_3x3RandomMatrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P02_SumEachRowInMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
