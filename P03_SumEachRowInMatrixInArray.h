@@ -4,13 +4,11 @@
 #include <iomanip>
 using namespace std;
 
-namespace P02_SumEachRowInMatrix {
+namespace P03_SumEachRowInMatrixInArray {
 
-	int RandomNumbersInRange(int From, int To) {
-
-		int RandomNumber = rand() % (To + 1 - From) + From;
+	int RandomNumberInRange(int From, int To) {
+		int RandomNumber = rand() % (To + 1 - From);
 		return RandomNumber;
-
 	}
 
 	void FillMatrixWithRandomNumbers(int arr[3][3], int Rows, int Cols) {
@@ -18,7 +16,7 @@ namespace P02_SumEachRowInMatrix {
 		for (int i = 0; i < Rows; i++) {
 			for (int j = 0; j < Cols; j++) {
 
-				arr[i][j] = RandomNumbersInRange(1,100);
+				arr[i][j] = RandomNumberInRange(1, 100);
 
 			}
 		}
@@ -40,15 +38,15 @@ namespace P02_SumEachRowInMatrix {
 
 	void SumOfRowsInMatrix(int arr[3][3], int Rows, int Cols) {
 
-		int Sum = 0;
+		int arrSumRows[3] = { 0,0,0 };
 
 		for (int i = 0; i < Rows; i++) {
 			for (int j = 0; j < Cols; j++) {
 
-				Sum += arr[i][j];
+				arrSumRows[i] += arr[i][j];
 			}
-			cout << " Row " << i + 1 << " Sum = " << Sum << endl;
-			Sum = 0;
+			cout << " Row " << i + 1 << " Sum = " << arrSumRows[i] << endl;
+			
 		}
 
 	}
@@ -70,5 +68,5 @@ namespace P02_SumEachRowInMatrix {
 	}
 
 
-}
 
+}

@@ -132,6 +132,10 @@
   <ItemGroup>
     <ClInclude Include="P01_3x3RandomMatrix.h" />
     <ClInclude Include="P02_SumEachRowInMatrix.h" />
+    <ClInclude Include="P03_SumEachRowInMatrixInArray.h" />
+    <ClInclude Include="P04_SumEachColInMatrix.h" />
+    <ClInclude Include="P05_SumEachColInMatrixInAnotherArray.h" />
+    <ClInclude Include="P06_3x3OrderedMatrix.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,12 +1,16 @@
 #include <iostream>
 #include "P01_3x3RandomMatrix.h"
 #include "P02_SumEachRowInMatrix.h"
+#include "P03_SumEachRowInMatrixInArray.h"
+#include "P04_SumEachColInMatrix.h"
+#include "P05_SumEachColInMatrixInAnotherArray.h"
+#include "P06_3x3OrderedMatrix.h"
 
 int main()
 {
 
 
-    P02_SumEachRowInMatrix::Task();
+    P06_3x3OrderedMatrix::Task();
 
 
 

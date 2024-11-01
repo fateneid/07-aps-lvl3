@@ -26,5 +26,17 @@
     <ClInclude Include="P02_SumEachRowInMatrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P03_SumEachRowInMatrixInArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P04_SumEachColInMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P05_SumEachColInMatrixInAnotherArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P06_3x3OrderedMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
