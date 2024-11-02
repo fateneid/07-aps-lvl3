@@ -136,6 +136,8 @@
     <ClInclude Include="P04_SumEachColInMatrix.h" />
     <ClInclude Include="P05_SumEachColInMatrixInAnotherArray.h" />
     <ClInclude Include="P06_3x3OrderedMatrix.h" />
+    <ClInclude Include="P07_TransposeMatrix.h" />
+    <ClInclude Include="P08_MultiplyTwoMatrices.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

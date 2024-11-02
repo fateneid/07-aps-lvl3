@@ -5,12 +5,14 @@
 #include "P04_SumEachColInMatrix.h"
 #include "P05_SumEachColInMatrixInAnotherArray.h"
 #include "P06_3x3OrderedMatrix.h"
+#include "P07_TransposeMatrix.h"
+#include "P08_MultiplyTwoMatrices.h"
 
 int main()
 {
 
 
-    P06_3x3OrderedMatrix::Task();
+    P08_MultiplyTwoMatrices::Task();
 
 
 
