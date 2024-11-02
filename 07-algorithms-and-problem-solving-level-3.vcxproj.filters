@@ -53,5 +53,8 @@
     <ClInclude Include="P11_CheckMatricesEquality.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P12_CheckTypicalMatrices.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

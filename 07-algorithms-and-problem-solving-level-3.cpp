@@ -10,12 +10,13 @@
 #include "P09_PrintMiddleRowAndColOfMatrix.h"
 #include "P10_SumOfMatrix.h"
 #include "P11_CheckMatricesEquality.h"
+#include "P12_CheckTypicalMatrices.h"
 
 int main()
 {
 
 
-    P11_CheckMatricesEquality::Task();
+    P12_CheckTypicalMatrices::Task();
 
 
 
