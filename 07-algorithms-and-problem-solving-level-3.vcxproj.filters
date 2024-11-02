@@ -47,5 +47,8 @@
     <ClInclude Include="P09_PrintMiddleRowAndColOfMatrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P10_SumOfMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

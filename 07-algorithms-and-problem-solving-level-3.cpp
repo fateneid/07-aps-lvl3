@@ -8,12 +8,13 @@
 #include "P07_TransposeMatrix.h"
 #include "P08_MultiplyTwoMatrices.h"
 #include "P09_PrintMiddleRowAndColOfMatrix.h"
+#include "P10_SumOfMatrix.h"
 
 int main()
 {
 
 
-    P09_PrintMiddleRowAndColOfMatrix::Task();
+    P10_SumOfMatrix::Task();
 
 
 

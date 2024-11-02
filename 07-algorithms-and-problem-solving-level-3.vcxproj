@@ -139,6 +139,7 @@
     <ClInclude Include="P07_TransposeMatrix.h" />
     <ClInclude Include="P08_MultiplyTwoMatrices.h" />
     <ClInclude Include="P09_PrintMiddleRowAndColOfMatrix.h" />
+    <ClInclude Include="P10_SumOfMatrix.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
