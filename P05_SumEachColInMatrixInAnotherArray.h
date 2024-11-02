@@ -7,7 +7,7 @@ using namespace std;
 namespace P05_SumEachColInMatrixInAnotherArray {
 
 	int RandomNumberInRange(int From, int To) {
-		int RandomNumber = rand() % (To + 1 - From);
+		int RandomNumber = rand() % (To + 1 - From) + From;
 		return RandomNumber;
 	}
 

@@ -7,7 +7,7 @@ using namespace std;
 namespace P09_PrintMiddleRowAndColOfMatrix {
 
 	short RandomNumberInRange(short From, short To) {
-		short RandomNumber = rand() % (To + 1 - From);
+		short RandomNumber = rand() % (To + 1 - From) + From;
 		return RandomNumber;
 	}
 

@@ -9,12 +9,13 @@
 #include "P08_MultiplyTwoMatrices.h"
 #include "P09_PrintMiddleRowAndColOfMatrix.h"
 #include "P10_SumOfMatrix.h"
+#include "P11_CheckMatricesEquality.h"
 
 int main()
 {
 
 
-    P10_SumOfMatrix::Task();
+    P11_CheckMatricesEquality::Task();
 
 
 

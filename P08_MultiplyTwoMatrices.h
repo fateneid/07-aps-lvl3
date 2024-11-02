@@ -6,7 +6,7 @@ using namespace std;
 namespace P08_MultiplyTwoMatrices {
 
 	short RandomNumberInRange(short From, short To) {
-		short RandomNumber = rand() % (To + 1 - From);
+		short RandomNumber = rand() % (To + 1 - From) + From;
 		return RandomNumber;
 	}
 
