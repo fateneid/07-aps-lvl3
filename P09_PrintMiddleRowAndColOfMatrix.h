@@ -1,9 +1,10 @@
 #pragma once
 
 #include <iostream>
+#include <Cmath>
 using namespace std;
 
-namespace P08_MultiplyTwoMatrices {
+namespace P09_PrintMiddleRowAndColOfMatrix {
 
 	short RandomNumberInRange(short From, short To) {
 		short RandomNumber = rand() % (To + 1 - From);
@@ -27,35 +28,41 @@ namespace P08_MultiplyTwoMatrices {
 		}
 	}
 
-	void MultiplyTwoMatrices(int arr1[3][3], int arr2[3][3], int arrResult[3][3], short Rows, short Cols) {
-		for (short i = 0; i < Rows; i++) {
-			for (short j = 0; j < Cols; j++) {
-				arrResult[i][j] = arr1[i][j] * arr2[i][j];
-			}
+	void PrintMiddleRowOfMatrix(int arr[3][3], short Rows, short Cols) {
+		short MiddleRow = Rows / 2;
+		for (short i = 0; i < Cols; i++) {
+			printf("%0*d \t", 2, arr[MiddleRow][i]);
 		}
+		cout << '\n';
+	}
+
+	void PrintMiddleColOfMatrix(int arr[3][3], short Rows, short Cols) {
+		short MiddleCol = Rows / 2;
+		for (short i = 0; i < Rows; i++) {
+			printf("%0*d \t", 2, arr[i][MiddleCol]);
+		}
+		cout << '\n';
 	}
 
 	void Task() {
 
 		srand((unsigned)time(NULL));
 
-		int arr1[3][3], arr2[3][3], arrResult[3][3];
+		int arr[3][3];
 
-		FillMatrixWithRandomNumbers(arr1, 3, 3);
-		FillMatrixWithRandomNumbers(arr2, 3, 3);
-
+		FillMatrixWithRandomNumbers(arr, 3, 3);
 		cout << "Matrix1:" << endl;
-		PrintMatrix(arr1, 3, 3);
-		cout << "\nMatrix2:" << endl;
-		PrintMatrix(arr2, 3, 3);
+		PrintMatrix(arr, 3, 3);
 
-		MultiplyTwoMatrices(arr1, arr2, arrResult, 3, 3);
-
-		cout << "\nResults:" << endl;
-		PrintMatrix(arrResult, 3, 3);
+		cout << "\nMiddle Row of Matrix1 is:\n";
+		PrintMiddleRowOfMatrix(arr, 3, 3);
+		cout << "\nMiddle Col of Matrix1 is:\n";
+		PrintMiddleColOfMatrix(arr, 3, 3);
 
 
 	}
 
-
 }
+
+
+

@@ -7,12 +7,13 @@
 #include "P06_3x3OrderedMatrix.h"
 #include "P07_TransposeMatrix.h"
 #include "P08_MultiplyTwoMatrices.h"
+#include "P09_PrintMiddleRowAndColOfMatrix.h"
 
 int main()
 {
 
 
-    P08_MultiplyTwoMatrices::Task();
+    P09_PrintMiddleRowAndColOfMatrix::Task();
 
 
 
