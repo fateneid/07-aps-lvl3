@@ -142,6 +142,7 @@
     <ClInclude Include="P10_SumOfMatrix.h" />
     <ClInclude Include="P11_CheckMatricesEquality.h" />
     <ClInclude Include="P12_CheckTypicalMatrices.h" />
+    <ClInclude Include="P13_CheckIdentityMatrix.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

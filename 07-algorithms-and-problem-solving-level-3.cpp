@@ -11,12 +11,13 @@
 #include "P10_SumOfMatrix.h"
 #include "P11_CheckMatricesEquality.h"
 #include "P12_CheckTypicalMatrices.h"
+#include "P13_CheckIdentityMatrix.h"
 
 int main()
 {
 
 
-    P12_CheckTypicalMatrices::Task();
+    P13_CheckIdentityMatrix::Task();
 
 
 
