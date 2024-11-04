@@ -71,5 +71,8 @@
     <ClInclude Include="P17_NumberExistsInMatrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P18_IntersectedNumbersInMatrices.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -147,6 +147,7 @@
     <ClInclude Include="P15_CountNumberInMatrix.h" />
     <ClInclude Include="P16_CheckSparseMatrix.h" />
     <ClInclude Include="P17_NumberExistsInMatrix.h" />
+    <ClInclude Include="P18_IntersectedNumbersInMatrices.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
