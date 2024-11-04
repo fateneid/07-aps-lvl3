@@ -130,6 +130,7 @@
     <ClCompile Include="07-algorithms-and-problem-solving-level-3.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="P22_FibonacciSeriesWithRecursion.h" />
     <ClInclude Include="P20_PalindromeMatrix.h" />
     <ClInclude Include="P01_3x3RandomMatrix.h" />
     <ClInclude Include="P02_SumEachRowInMatrix.h" />
