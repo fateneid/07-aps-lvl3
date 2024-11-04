@@ -13,12 +13,13 @@
 #include "P12_CheckTypicalMatrices.h"
 #include "P13_CheckIdentityMatrix.h"
 #include "P14_CheckScalarMatrixh.h"
+#include "P15_CountNumberInMatrix.h"
 
 int main()
 {
 
 
-    P14_CheckScalarMatrixh::Task();
+    P15_CountNumberInMatrix::Task();
 
 
 

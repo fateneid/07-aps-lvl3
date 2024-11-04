@@ -62,5 +62,8 @@
     <ClInclude Include="P14_CheckScalarMatrixh.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P15_CountNumberInMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
