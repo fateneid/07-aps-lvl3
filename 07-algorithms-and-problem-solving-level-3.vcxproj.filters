@@ -74,5 +74,8 @@
     <ClInclude Include="P18_IntersectedNumbersInMatrices.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P19_MinAndMaxNumberInMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

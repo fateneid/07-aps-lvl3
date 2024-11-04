@@ -148,6 +148,7 @@
     <ClInclude Include="P16_CheckSparseMatrix.h" />
     <ClInclude Include="P17_NumberExistsInMatrix.h" />
     <ClInclude Include="P18_IntersectedNumbersInMatrices.h" />
+    <ClInclude Include="P19_MinAndMaxNumberInMatrix.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
