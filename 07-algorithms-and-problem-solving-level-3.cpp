@@ -18,12 +18,13 @@
 #include "P17_NumberExistsInMatrix.h"
 #include "P18_IntersectedNumbersInMatrices.h"
 #include "P19_MinAndMaxNumberInMatrix.h"
+#include "P20_PalindromeMatrix.h"
 
 int main()
 {
 
 
-    P19_MinAndMaxNumberInMatrix::Task();
+    P20_PalindromeMatrix::Task();
 
 
 
