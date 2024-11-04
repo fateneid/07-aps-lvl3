@@ -145,6 +145,7 @@
     <ClInclude Include="P13_CheckIdentityMatrix.h" />
     <ClInclude Include="P14_CheckScalarMatrixh.h" />
     <ClInclude Include="P15_CountNumberInMatrix.h" />
+    <ClInclude Include="P16_CheckSparseMatrix.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
