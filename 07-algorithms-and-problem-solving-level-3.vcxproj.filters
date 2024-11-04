@@ -80,5 +80,8 @@
     <ClInclude Include="P20_PalindromeMatrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P21_FibonacciSeries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

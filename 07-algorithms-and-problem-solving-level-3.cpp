@@ -19,12 +19,13 @@
 #include "P18_IntersectedNumbersInMatrices.h"
 #include "P19_MinAndMaxNumberInMatrix.h"
 #include "P20_PalindromeMatrix.h"
+#include "P21_FibonacciSeries.h"
 
 int main()
 {
 
 
-    P20_PalindromeMatrix::Task();
+    P21_FibonacciSeries::Task();
 
 
 
