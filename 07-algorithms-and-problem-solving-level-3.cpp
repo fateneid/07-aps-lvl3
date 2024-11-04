@@ -21,12 +21,13 @@
 #include "P20_PalindromeMatrix.h"
 #include "P21_FibonacciSeries.h"
 #include "P22_FibonacciSeriesWithRecursion.h"
+#include "P23_PrintFirstLetterOfEachWord.h"
 
 int main()
 {
 
 
-    P22_FibonacciSeriesWithRecursion::Task();
+    P23_PrintFirstLetterOfEachWord::Task();
 
 
 

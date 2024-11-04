@@ -152,6 +152,7 @@
     <ClInclude Include="P18_IntersectedNumbersInMatrices.h" />
     <ClInclude Include="P19_MinAndMaxNumberInMatrix.h" />
     <ClInclude Include="P21_FibonacciSeries.h" />
+    <ClInclude Include="P23_PrintFirstLetterOfEachWord.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
