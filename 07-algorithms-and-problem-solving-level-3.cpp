@@ -22,12 +22,13 @@
 #include "P21_FibonacciSeries.h"
 #include "P22_FibonacciSeriesWithRecursion.h"
 #include "P23_PrintFirstLetterOfEachWord.h"
+#include "P24_UpperFirstLetterOfEachWord.h"
 
 int main()
 {
 
 
-    P23_PrintFirstLetterOfEachWord::Task();
+    P24_UpperFirstLetterOfEachWord::Task();
 
 
 

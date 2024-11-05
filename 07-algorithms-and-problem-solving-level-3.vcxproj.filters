@@ -89,5 +89,8 @@
     <ClInclude Include="P23_PrintFirstLetterOfEachWord.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P24_UpperFirstLetterOfEachWord.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
