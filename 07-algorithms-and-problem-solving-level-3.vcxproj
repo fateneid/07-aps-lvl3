@@ -157,6 +157,7 @@
     <ClInclude Include="P25_LowerFirstLetterOfEachWord.h" />
     <ClInclude Include="P26_UpperAndLowerAllLettersOfAString.h" />
     <ClInclude Include="P27_InvertCharcterCase.h" />
+    <ClInclude Include="P28_InvertAllLettersCase.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -101,5 +101,8 @@
     <ClInclude Include="P27_InvertCharcterCase.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P28_InvertAllLettersCase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
