@@ -154,6 +154,7 @@
     <ClInclude Include="P21_FibonacciSeries.h" />
     <ClInclude Include="P23_PrintFirstLetterOfEachWord.h" />
     <ClInclude Include="P24_UpperFirstLetterOfEachWord.h" />
+    <ClInclude Include="P25_LowerFirstLetterOfEachWord.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
