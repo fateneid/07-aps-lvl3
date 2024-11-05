@@ -24,12 +24,13 @@
 #include "P23_PrintFirstLetterOfEachWord.h"
 #include "P24_UpperFirstLetterOfEachWord.h"
 #include "P25_LowerFirstLetterOfEachWord.h"
+#include "P26_UpperAndLowerAllLettersOfAString.h"
 
 int main()
 {
 
 
-    P25_LowerFirstLetterOfEachWord::Task();
+    P26_UpperAndLowerAllLettersOfAString::Task();
 
 
 

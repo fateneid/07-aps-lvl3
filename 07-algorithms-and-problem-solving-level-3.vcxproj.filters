@@ -95,5 +95,8 @@
     <ClInclude Include="P25_LowerFirstLetterOfEachWord.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P26_UpperAndLowerAllLettersOfAString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
