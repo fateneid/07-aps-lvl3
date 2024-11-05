@@ -110,5 +110,8 @@
     <ClInclude Include="P30_CountLetters.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P31_CountLettersMatchCase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
