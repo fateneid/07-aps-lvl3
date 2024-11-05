@@ -25,12 +25,13 @@
 #include "P24_UpperFirstLetterOfEachWord.h"
 #include "P25_LowerFirstLetterOfEachWord.h"
 #include "P26_UpperAndLowerAllLettersOfAString.h"
+#include "P27_InvertCharcterCase.h"
 
 int main()
 {
 
 
-    P26_UpperAndLowerAllLettersOfAString::Task();
+    P27_InvertCharcterCase::Task();
 
 
 
