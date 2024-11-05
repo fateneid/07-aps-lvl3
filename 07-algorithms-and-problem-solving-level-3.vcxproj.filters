@@ -104,5 +104,8 @@
     <ClInclude Include="P28_InvertAllLettersCase.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P29_CountSmallAndCapitalLetters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

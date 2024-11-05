@@ -27,12 +27,13 @@
 #include "P26_UpperAndLowerAllLettersOfAString.h"
 #include "P27_InvertCharcterCase.h"
 #include "P28_InvertAllLettersCase.h"
+#include "P29_CountSmallAndCapitalLetters.h"
 
 int main()
 {
 
 
-    P28_InvertAllLettersCase::Task();
+    P29_CountSmallAndCapitalLetters::Task();
 
 
 
