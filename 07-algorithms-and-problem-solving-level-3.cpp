@@ -28,12 +28,13 @@
 #include "P27_InvertCharcterCase.h"
 #include "P28_InvertAllLettersCase.h"
 #include "P29_CountSmallAndCapitalLetters.h"
+#include "P30_CountLetters.h"
 
 int main()
 {
 
 
-    P29_CountSmallAndCapitalLetters::Task();
+    P30_CountLetters::Task();
 
 
 

@@ -159,6 +159,7 @@
     <ClInclude Include="P27_InvertCharcterCase.h" />
     <ClInclude Include="P28_InvertAllLettersCase.h" />
     <ClInclude Include="P29_CountSmallAndCapitalLetters.h" />
+    <ClInclude Include="P30_CountLetters.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
