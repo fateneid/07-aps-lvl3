@@ -116,5 +116,8 @@
     <ClInclude Include="P32_IsVowel.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P33_CountVowel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

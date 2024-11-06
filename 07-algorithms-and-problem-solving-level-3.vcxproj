@@ -162,6 +162,7 @@
     <ClInclude Include="P30_CountLetters.h" />
     <ClInclude Include="P31_CountLettersMatchCase.h" />
     <ClInclude Include="P32_IsVowel.h" />
+    <ClInclude Include="P33_CountVowel.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
