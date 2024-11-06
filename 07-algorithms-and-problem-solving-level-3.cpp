@@ -30,12 +30,13 @@
 #include "P29_CountSmallAndCapitalLetters.h"
 #include "P30_CountLetters.h"
 #include "P31_CountLettersMatchCase.h"
+#include "P32_IsVowel.h"
 
 int main()
 {
 
 
-    P31_CountLettersMatchCase::Task();
+    P32_IsVowel::Task();
 
 
 
