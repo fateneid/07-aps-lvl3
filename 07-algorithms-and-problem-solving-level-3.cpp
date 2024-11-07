@@ -32,12 +32,13 @@
 #include "P31_CountLettersMatchCase.h"
 #include "P32_IsVowel.h"
 #include "P33_CountVowel.h"
+#include "P34_PrintAllVowelsInString.h"
 
 int main()
 {
 
 
-    P33_CountVowel::Task();
+    P34_PrintAllVowelsInString::Task();
 
 
 

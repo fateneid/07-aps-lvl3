@@ -163,6 +163,7 @@
     <ClInclude Include="P31_CountLettersMatchCase.h" />
     <ClInclude Include="P32_IsVowel.h" />
     <ClInclude Include="P33_CountVowel.h" />
+    <ClInclude Include="P34_PrintAllVowelsInString.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
