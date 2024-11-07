@@ -165,6 +165,7 @@
     <ClInclude Include="P33_CountVowel.h" />
     <ClInclude Include="P34_PrintAllVowelsInString.h" />
     <ClInclude Include="P35_PrintEachWordInString.h" />
+    <ClInclude Include="P36_CountEachWordInString.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

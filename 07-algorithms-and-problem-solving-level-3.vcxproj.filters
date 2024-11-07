@@ -125,5 +125,8 @@
     <ClInclude Include="P35_PrintEachWordInString.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P36_CountEachWordInString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
