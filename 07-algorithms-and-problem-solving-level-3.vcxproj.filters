@@ -122,5 +122,8 @@
     <ClInclude Include="P34_PrintAllVowelsInString.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P35_PrintEachWordInString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
