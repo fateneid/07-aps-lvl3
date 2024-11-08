@@ -35,12 +35,13 @@
 #include "P34_PrintAllVowelsInString.h"
 #include "P35_PrintEachWordInString.h"
 #include "P36_CountEachWordInString.h"
+#include "P37_SplitString.h"
 
 int main()
 {
 
 
-    P36_CountEachWordInString::Task();
+    P37_SplitString::Task();
 
 
 
