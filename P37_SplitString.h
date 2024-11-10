@@ -10,11 +10,11 @@ namespace P37_SplitString {
 	string ReadString(string Message) {
 		string MyString;
 		cout << Message;
-		getline(cin, Message);
+		getline(cin, MyString);
 		return MyString;
 	}
 
-	void SplitString(string MyString, string split) {
+	vector<string> SplitString(string MyString, string split) {
 		string sWord;
 		short pos = 0;
 		vector <string> vSplitString;
@@ -34,17 +34,21 @@ namespace P37_SplitString {
 			vSplitString.push_back(MyString);
 		}
 
-		for (string& SplitString : vSplitString) {
-			cout << SplitString << endl;
-		}
+		return vSplitString;
+
 	}
 
 
 	void Task() {
 
 		string MyString = ReadString("Please Enter Your String?\n");
-		SplitString(MyString, "-");
+		vector <string> vSplitString = SplitString(MyString, "-");
 
+		cout << "Tokens = " << vSplitString.size() << endl;
+		for (string& S : vSplitString) {
+			
+			cout << S << endl;
+		}
 
 	}
 
