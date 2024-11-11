@@ -149,5 +149,8 @@
     <ClInclude Include="P43_ReplaceWordsCustom.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P44_RemovePunctuations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

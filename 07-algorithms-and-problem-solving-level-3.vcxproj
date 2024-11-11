@@ -173,6 +173,7 @@
     <ClInclude Include="P41_ReverseWords.h" />
     <ClInclude Include="P42_ReplaceWords.h" />
     <ClInclude Include="P43_ReplaceWordsCustom.h" />
+    <ClInclude Include="P44_RemovePunctuations.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

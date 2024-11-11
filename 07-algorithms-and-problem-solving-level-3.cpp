@@ -42,12 +42,13 @@
 #include "P41_ReverseWords.h"
 #include "P42_ReplaceWords.h"
 #include "P43_ReplaceWordsCustom.h"
+#include "P44_RemovePunctuations.h"
 
 int main()
 {
 
 
-    P43_ReplaceWordsCustom::Task();
+    P44_RemovePunctuations::Task();
 
 
 
