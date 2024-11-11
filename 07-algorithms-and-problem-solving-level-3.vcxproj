@@ -170,6 +170,7 @@
     <ClInclude Include="P38_TrimLeftTrimRightTrim.h" />
     <ClInclude Include="P39_JoinString.h" />
     <ClInclude Include="P40_JoinStringOverloading.h" />
+    <ClInclude Include="P41_ReverseWords.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
