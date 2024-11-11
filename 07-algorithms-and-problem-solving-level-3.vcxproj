@@ -169,6 +169,7 @@
     <ClInclude Include="P37_SplitString.h" />
     <ClInclude Include="P38_TrimLeftTrimRightTrim.h" />
     <ClInclude Include="P39_JoinString.h" />
+    <ClInclude Include="P40_JoinStringOverloading.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

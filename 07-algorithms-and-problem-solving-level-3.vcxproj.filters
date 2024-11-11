@@ -137,5 +137,8 @@
     <ClInclude Include="P39_JoinString.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P40_JoinStringOverloading.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
