@@ -40,12 +40,13 @@
 #include "P39_JoinString.h"
 #include "P40_JoinStringOverloading.h"
 #include "P41_ReverseWords.h"
+#include "P42_ReplaceWords.h"
 
 int main()
 {
 
 
-    P41_ReverseWords::Task();
+    P42_ReplaceWords::Task();
 
 
 

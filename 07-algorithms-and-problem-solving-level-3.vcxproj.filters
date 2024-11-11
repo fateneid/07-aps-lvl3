@@ -143,5 +143,8 @@
     <ClInclude Include="P41_ReverseWords.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P42_ReplaceWords.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
