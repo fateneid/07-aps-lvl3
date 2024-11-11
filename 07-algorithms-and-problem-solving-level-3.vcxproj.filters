@@ -146,5 +146,8 @@
     <ClInclude Include="P42_ReplaceWords.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P43_ReplaceWordsCustom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

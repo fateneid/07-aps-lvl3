@@ -74,7 +74,7 @@ namespace P42_ReplaceWords {
 
 		string MyString = ReadString("Please Enter Your String?\n");
 
-		cout << "\nString after reversing words:\n";
+		cout << "\nString after Replacing words:\n";
 		cout << ReplaceWordUsingBuiltInFunction(MyString, "Egypt", "China") << endl;
 
 
