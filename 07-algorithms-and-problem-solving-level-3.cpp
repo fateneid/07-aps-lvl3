@@ -37,12 +37,13 @@
 #include "P36_CountEachWordInString.h"
 #include "P37_SplitString.h"
 #include "P38_TrimLeftTrimRightTrim.h"
+#include "P39_JoinString.h"
 
 int main()
 {
 
 
-    P38_TrimLeftTrimRightTrim::Task();
+    P39_JoinString::Task();
 
 
 

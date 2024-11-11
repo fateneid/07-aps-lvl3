@@ -134,5 +134,8 @@
     <ClInclude Include="P38_TrimLeftTrimRightTrim.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P39_JoinString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
