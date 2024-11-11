@@ -130,8 +130,6 @@
     <ClCompile Include="07-algorithms-and-problem-solving-level-3.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Header.h" />
-    <ClInclude Include="Header1.h" />
     <ClInclude Include="P22_FibonacciSeriesWithRecursion.h" />
     <ClInclude Include="P20_PalindromeMatrix.h" />
     <ClInclude Include="P01_3x3RandomMatrix.h" />
@@ -169,6 +167,7 @@
     <ClInclude Include="P35_PrintEachWordInString.h" />
     <ClInclude Include="P36_CountEachWordInString.h" />
     <ClInclude Include="P37_SplitString.h" />
+    <ClInclude Include="P38_TrimLeftTrimRightTrim.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

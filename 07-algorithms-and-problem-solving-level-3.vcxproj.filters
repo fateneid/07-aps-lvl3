@@ -131,10 +131,7 @@
     <ClInclude Include="P37_SplitString.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Header.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Header1.h">
+    <ClInclude Include="P38_TrimLeftTrimRightTrim.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
