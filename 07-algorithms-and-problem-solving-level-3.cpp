@@ -43,12 +43,13 @@
 #include "P42_ReplaceWords.h"
 #include "P43_ReplaceWordsCustom.h"
 #include "P44_RemovePunctuations.h"
+#include "P45_ConvertRecordToLine.h"
 
 int main()
 {
 
 
-    P44_RemovePunctuations::Task();
+    P45_ConvertRecordToLine::Task();
 
 
 
