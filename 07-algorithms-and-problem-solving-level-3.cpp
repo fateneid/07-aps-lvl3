@@ -45,12 +45,13 @@
 #include "P44_RemovePunctuations.h"
 #include "P45_ConvertRecordToLine.h"
 #include "P46_ConvertLineDataToRecord.h"
+#include "P47_AddClientsToFile.h"
 
 int main()
 {
 
 
-    P46_ConvertLineDataToRecord::Task();
+    P47_AddClientsToFile::Task();
 
 
 
