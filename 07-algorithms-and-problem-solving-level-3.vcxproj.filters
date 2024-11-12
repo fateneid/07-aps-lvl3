@@ -155,5 +155,8 @@
     <ClInclude Include="P45_ConvertRecordToLine.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P46_ConvertLineDataToRecord.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

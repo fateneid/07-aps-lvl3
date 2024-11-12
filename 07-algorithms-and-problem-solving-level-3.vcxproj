@@ -175,6 +175,7 @@
     <ClInclude Include="P43_ReplaceWordsCustom.h" />
     <ClInclude Include="P44_RemovePunctuations.h" />
     <ClInclude Include="P45_ConvertRecordToLine.h" />
+    <ClInclude Include="P46_ConvertLineDataToRecord.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
