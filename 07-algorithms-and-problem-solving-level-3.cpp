@@ -46,12 +46,13 @@
 #include "P45_ConvertRecordToLine.h"
 #include "P46_ConvertLineDataToRecord.h"
 #include "P47_AddClientsToFile.h"
+#include "P48_ShowAllClients.h"
 
 int main()
 {
 
 
-    P47_AddClientsToFile::Task();
+    P48_ShowAllClients::Task();
 
 
 

@@ -177,6 +177,7 @@
     <ClInclude Include="P45_ConvertRecordToLine.h" />
     <ClInclude Include="P46_ConvertLineDataToRecord.h" />
     <ClInclude Include="P47_AddClientsToFile.h" />
+    <ClInclude Include="P48_ShowAllClients.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
