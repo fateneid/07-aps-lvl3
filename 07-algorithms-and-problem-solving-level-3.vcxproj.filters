@@ -167,5 +167,8 @@
     <ClInclude Include="P49_FindClientByAccountNumber.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P50_DeleteClientByAccountNumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

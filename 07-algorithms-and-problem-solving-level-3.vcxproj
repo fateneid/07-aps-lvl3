@@ -179,6 +179,7 @@
     <ClInclude Include="P47_AddClientsToFile.h" />
     <ClInclude Include="P48_ShowAllClients.h" />
     <ClInclude Include="P49_FindClientByAccountNumber.h" />
+    <ClInclude Include="P50_DeleteClientByAccountNumber.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
