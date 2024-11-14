@@ -49,12 +49,13 @@
 #include "P48_ShowAllClients.h"
 #include "P49_FindClientByAccountNumber.h"
 #include "P50_DeleteClientByAccountNumber.h"
+#include "P51_UpdateClientByAccountNumber.h"
 
 int main()
 {
 
 
-    P50_DeleteClientByAccountNumber::Task();
+    P51_UpdateClientByAccountNumber::Task();
 
 
 
